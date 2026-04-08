@@ -2,7 +2,6 @@
 4. Ler dois números inteiros e verificar qual é o maior e qual é o
 menor. Suponha sempre números diferentes;
 """
-from sys import float_repr_style
 
 n1 = float(input('Digite um número: '))
 n2 = float(input('Digite outro número: '))
