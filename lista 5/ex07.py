@@ -13,6 +13,7 @@ sexo = input('M ou F: ')
 #Tratamento
 sexo = sexo.upper()
 
+#Condicional
 if sexo == 'M':
     pi = (72.7 * h) - 58
     print(f'Seu pesso ideia é {pi:.2f} Kg.')
